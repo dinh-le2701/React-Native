@@ -1,4 +1,4 @@
-# 19_21000121_TruongDaiLoc_REACT_Tuan4
+# 20040631_LeTatDinh_REACT_Tuan4
 
 Bài tập 5 React lập trình thiết bị di động
 
@@ -26,4 +26,3 @@ Trước khi bắt đầu, hãy đảm bảo rằng bạn đã cài đặt các 
   npm i yarn
   npx expo start
   npm run web
-- **Link ytb**: link ytb [youtube](https://www.youtube.com/watch?v=meM5bqLsxn4)
